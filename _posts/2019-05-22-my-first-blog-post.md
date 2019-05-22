@@ -1,2 +1,4 @@
-2019-05-22
-This is my first blog post.
+---
+title: "This is my first blog post"
+date: 2019-05-22
+---
